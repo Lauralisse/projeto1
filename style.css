@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#pesquisar {
+    width: 20%;
+    padding: 5px;
+    border-radius: 20px;
+    border: white;
+}
+
+#botao {
+    padding: 5px;
+    border-radius: 20px;
+    cursor: pointer;
+    border: none;
+}
+
+body {
+    text-align: center;
+    background-image: url(./img/background.jpg);
+}
+
+.titulo {
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left: 235px;
+}
+
+.resumo {
+    float: rigth;
+    margin: 0;
+    padding: 0px;
+    text-align: justify;
+    margin-right: 150px;
+    margin-top: 5px;
+}
+
+.title1 {
+    margin-top: 4px;
+    font-size: 20px;
+}
+
+.rocketflix {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+    display: flex;
+}
+
+.picture {
+    float: left;
+    margin-left: 300px;
+    padding: 10px;
+}
+
+h3 img p {
+    align-items: center;
+}
